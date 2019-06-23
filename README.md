@@ -1,1 +1,1 @@
-1. ES6-ifying the RPS homeowork. 
+1. ES6-ifying the RPS homework. I skipped JQuery as well to practice Vanilla JS.

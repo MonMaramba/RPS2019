@@ -77,14 +77,14 @@ const showWinner = (winner, computerChoice) => {
     modal.style.display = 'block';
 }
 
-// Clearing the modal
+// To clear the modal
 const clearModal = e => {
     if(e.target == modal){
         modal.style.display = 'none';
     }
 }
 
-// Restart Game
+// Restarting the game
 const restartGame = () => {
     scoreboard.player = 0;
     scoreboard.computer = 0;
